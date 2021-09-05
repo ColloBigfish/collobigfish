@@ -12,7 +12,6 @@
 - ⚡ Fun fact: ... Hewlett-Packard Was Decided by a Coin Toss
 
 
-![tensorflow](https://user-images.githubusercontent.com/41758123/132144035-60b2c761-b881-4e83-b241-8b2ee0c7f591.png)
 ![aws](https://user-images.githubusercontent.com/41758123/132144039-42df0f67-d5a5-4d5b-acba-09af968223c7.png)
 ![firebase](https://user-images.githubusercontent.com/41758123/132144043-bb692f19-a82e-47b0-8d8d-12fca4629484.png)
 ![react](https://user-images.githubusercontent.com/41758123/132144049-a5c54c6d-a625-4671-93f1-0c2cbaae9c5c.png)
