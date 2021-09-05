@@ -14,9 +14,7 @@
 
 ![tensorflow](https://user-images.githubusercontent.com/41758123/132144035-60b2c761-b881-4e83-b241-8b2ee0c7f591.png)
 ![aws](https://user-images.githubusercontent.com/41758123/132144039-42df0f67-d5a5-4d5b-acba-09af968223c7.png)
-![django](https://user-images.githubusercontent.com/41758123/132144041-6635d5ab-7244-4902-b1a9-c01f80a91363.png)
 ![firebase](https://user-images.githubusercontent.com/41758123/132144043-bb692f19-a82e-47b0-8d8d-12fca4629484.png)
-![laravel](https://user-images.githubusercontent.com/41758123/132144047-c5cbe259-b62e-41ca-b6c1-3689f88e6b69.png)
 ![react](https://user-images.githubusercontent.com/41758123/132144049-a5c54c6d-a625-4671-93f1-0c2cbaae9c5c.png)
 
 
