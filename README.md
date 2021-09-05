@@ -1,4 +1,4 @@
-![Black and Yellow Typographic Art   Design Logo(4)](https://user-images.githubusercontent.com/41758123/132143215-a06642f3-7985-4195-8faf-c64a290990d2.png)
+![Black and Yellow Typographic Art   Design Logo(4)](https://user-images.githubusercontent.com/41758123/132143215-a06642f3-7985-4195-8faf-c64a290990d2.png width="100px")
 
 ### Hi there 👋
 
